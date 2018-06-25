@@ -1,0 +1,19 @@
+{
+  "name": "knockk",
+  "version": "0.0.0",
+  "description": "A scalable user identity and authorization web service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etchgis/knockknock.git"
+  },
+  "author": "Etch Ltd. (https://etchgis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etchgis/knockknock/issues"
+  },
+  "homepage": "https://github.com/etchgis/knockknock#readme"
+}
